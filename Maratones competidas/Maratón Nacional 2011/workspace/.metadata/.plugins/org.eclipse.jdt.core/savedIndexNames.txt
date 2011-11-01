@@ -1,1 +1,0 @@
-INDEX VERSION 1.125+C:\Users\Maraton\maraton\workspace\.metadata\.plugins\org.eclipse.jdt.core
